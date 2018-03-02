@@ -1,5 +1,5 @@
 import React from "react";
-import { Modal, View, Image, Text, Button, StyleSheet } from "react-native";
+import { Modal, View, Image, Text, Button, StyleSheet, Touchable } from "react-native";
 
 const placeDetail = props => {
   let modalContent = null;
@@ -21,7 +21,6 @@ const placeDetail = props => {
       <View style={styles.modalContainer}>
         {modalContent}
         <View>
-          <Button title="Delete" color="red" onPress={props.onItemDeleted} />
           <Button title="Close" onPress={props.onModalClosed} />
         </View>
       </View>
