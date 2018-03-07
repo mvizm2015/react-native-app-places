@@ -1,5 +1,5 @@
 import React from "react";
-import { Modal, View, Image, Text, Button, StyleSheet, Touchable } from "react-native";
+import { Modal, View, Image, Text, Button, StyleSheet, Touchable, Touchable } from "react-native";
 
 const placeDetail = props => {
   let modalContent = null;
@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
   },
   placeImage: {
     width: "100%",
-    height: 200
+    height: 300
   },
   placeName: {
     fontWeight: "bold",
