@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_d7d5d4e634f6b38646833ef363637c27519fb911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_e71589ba93386419d62dabc900904e9c5eae7101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-vector-icons-unspecified_6c805c52d197cfd10aea78ded6a5952bfd0ff218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_eed40b1aca436feb0def564d382077e488bf625f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_56831efdf833fff9d9588e89b3d031a53ccffd45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_2d386d755254ea91a447ac8f7053b152efe6799f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_797288ee927bbb2ed33f5a1f0f66c02665eb1139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1b56fed782a5e201d1b9473c0ce898ee272b6619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0369dfe8652d7d6a0287aac135d4c5b9a6ef6643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_2b37524167c571f71580b28e3d5f4cbc6691f795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b190ffe9b7d788bc451c6205c0828d32db00fb68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1c0c025295687e9772b20e440789a3866e796326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_82ddf6d5e2b430a396d4edb39292253877e9da2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b9d31f2c2b9ebdcbba10264c8f8cea12fc27f6d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_a40f12c775f583e2e3ab921239efbd4e058c3c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_a58442834f78214238351031a3807e8244006e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_bf7b63de37c6ae7ac304868de4fcbc9672f81e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8847ae68b22832f9e10c7506af0c6cfd4d7a8e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_bddd5ebbe31760538efb83ff2526caf9b16b0931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_083e198c99fd07bcf689988cb72414ea15be0bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c95639fac53b736142f93d8f2a075bee6323021f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_2df7c2542065e1681909435a1e068e93c91f92ea.jar" />
+    </item>
+
+</items>
