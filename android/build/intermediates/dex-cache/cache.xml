@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-vector-icons-unspecified_6c805c52d197cfd10aea78ded6a5952bfd0ff218.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/vizmhm/Desktop/REACT-Native-app/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
